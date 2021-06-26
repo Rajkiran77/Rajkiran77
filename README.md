@@ -1,4 +1,4 @@
-### Hey 👋🏽, I'm [Rajkiran Jilla!](https://Rajkiran77.github.io) 
+### Hey 👋🏽, I'm Rajkiran Jilla!
 
 <a href="https://www.linkedin.com/in/rajkiranjilla/">
   <img align="left" alt="Rajkiranjilla LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
