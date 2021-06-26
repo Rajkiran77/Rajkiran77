@@ -18,7 +18,7 @@
 - 🌱 I’m currently learning .Net core and Angular
 - 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me: rajkiranjilla@gmail.com
-[RajkiranJilla2021.pdf](https://github.com/Rajkiran77/Rajkiran77/files/6719538/RajkiranJilla2021.pdf)
+- 📝[Resume][RajkiranJilla2021.pdf](https://github.com/Rajkiran77/Rajkiran77/files/6719538/RajkiranJilla2021.pdf)
 
 **Languages and Tools:**  
 
