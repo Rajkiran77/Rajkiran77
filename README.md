@@ -1,3 +1,17 @@
+### Hey 👋🏽, I'm [Rajkiran Jilla!](https://Rajkiran77.github.io) 
+
+<a href="https://twitter.com/adarshreddyash">
+  <img align="left" alt="Adarshreddyash | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+</a>
+<a href="https://www.linkedin.com/in/adarshreddyash/">
+  <img align="left" alt="Adarshreddyash LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+<a href="https://www.instagram.com/adarshreddyash/">
+  <img align="left" alt="Adarshreddyash Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+</a>
+<br />
+<br />
+
 - 👋 Hi, I’m Raaj
 - 👀 I’m interested in coding..
 - 🌱 I’m currently learning .Net core and Angular
@@ -12,7 +26,6 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="20" src="https://user-images.githubusercontent.com/65813045/123501146-77cc1500-d660-11eb-911b-534eea570e52.png"></code>
-![image]()
 
 
 <!---
